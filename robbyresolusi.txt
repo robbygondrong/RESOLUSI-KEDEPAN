@@ -1,4 +1,4 @@
 tahun ini jago php laravel
 tahun depan jago javascript
 membuat forum diskusi mahasiswa, dosen dan tendik
-membuat merc shop
+membuat badminton kas
